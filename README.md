@@ -11,4 +11,4 @@ I'm Joshep.
 
 😄 Pronouns: Harry
 
-⚡ Fun fact: I like to play Dota and Reading.
+⚡ Fun fact: I like to play Dota and read the book.
