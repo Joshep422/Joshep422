@@ -1,16 +1,14 @@
 ## Hi there 👋
+I'm Joshep.
 
-<!--
-**Joshep422/Joshep422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I'm interested in web development and web architecture.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning AI and BlockChain technique.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞️ I’m looking to collaborate on company or client who want to build the web project.
+
+📫 joshephan422@gmail.com
+
+😄 Pronouns: Harry
+
+⚡ Fun fact: I like to play Dota and Reading.
