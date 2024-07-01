@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Joshep.
+I'm Vadym.
 
 👀 I'm interested in web development and web architecture.
 
@@ -7,8 +7,8 @@ I'm Joshep.
 
 💞️ I’m looking to collaborate on company or client who want to build the web project.
 
-📫 joshephan422@gmail.com
+📫 taranvadym54@gmail.com
 
-😄 Pronouns: Harry
+😄 Pronouns: Master
 
 ⚡ Fun fact: I like to play Dota and read the book.
